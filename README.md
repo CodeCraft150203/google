@@ -1,2 +1,2 @@
 # google
-synet.com.net/frp
+https://synet.com.net/frp
